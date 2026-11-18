@@ -268,6 +268,24 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 Fix what the checks list and submit again before the deadline. Rejection is a to-do list, not a verdict — see Step 6.
 </details>
 
+## After you sign up: what happens next
+
+Signing up is the start, not the finish. Here is the honest timeline so you know what to expect.
+
+1. **Your account is reviewed.** Every new signup goes through a review hold of up to 24 hours. During the hold your signup shows as provisional on the leaderboard. Provisional does not count yet.
+2. **Verification decides.** A signup counts only once it passes the referral check: a real person, a real new account, on their own device and network. Your own account, a shared identity, a bot, or an idle account does not count.
+3. **Rewards land in USDC.** Once verified, rewards are paid in USDC on Solana to the wallet you signed up with. The bounty pays 50 places, from $150 for first down to $13 for places 26 to 50.
+4. **First touch wins.** If someone clicks a referral link, that referrer keeps the credit for 60 days, even if the person signs up later through another link. Share early.
+5. **Check the board.** The live leaderboard shows provisional and verified counts side by side. Provisional numbers move fast. Verified numbers are the ones that pay.
+
+## Spread this guide
+
+This guide only works if new people find it. If it helped you, pass it on.
+
+- Share the repo link in one place where beginners gather: a Facebook group, a WhatsApp group, a Discord server, a forum thread.
+- Tell them the one number that matters: one thousand dollars in USDC, fifty paid places, and the first step takes ten minutes.
+- When they sign up, they get their own referral link, and the same flywheel starts for them. That is the whole game.
+
 ## Links
 
 - **Sign up with my link:** [https://make.fun/r/dp1radt1](https://make.fun/r/dp1radt1) (code `dp1radt1`)
